@@ -1,0 +1,87 @@
+.member{
+  padding: 0px!important;
+}
+
+.ico-img{
+  width: 59px;
+  height: auto;
+  border-radius: 50%;
+}
+
+#membership{
+  background-color: #f7f7f7;
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+.bold{
+  font-weight: bold;
+  color: black;
+}
+
+#research{
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+#events{
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+  background-color: #f7f7f7;
+}
+
+.heavy{
+  font-weight: bold;
+  color: black;
+  font-size: 32px;
+}
+
+.background{
+  background: url(../img/famsquad.jpg) center top no-repeat;
+  min-height: 250px;
+}
+
+.sub-title{
+  font-weight: lighter;
+}
+
+#facts{
+  background-color: #f7f7f7;
+  padding-top: 0;
+}
+
+#ieee{
+  background-color: #fff;
+  padding-top: 15vh;
+  padding-bottom: 10vh;
+}
+
+.sub-resource{
+}
+
+.blue{
+  color: #00629B;
+  font-weight: bold;
+}
+
+.background-3{
+  background: url(../img/xplore.jpg) center top no-repeat;
+  min-height: 250px;
+}
+
+#mobile-nav{
+  background: #00629B77;
+}
+
+.social-links{
+  padding: 0;
+}
+
+.outreach-title{
+  text-align: center;
+}
+
+.inactiveLink {
+   pointer-events: none;
+   cursor: default;
+}
